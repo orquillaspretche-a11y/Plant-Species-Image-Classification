@@ -78,12 +78,12 @@ Petchay (Bok Choy) is a leafy green vegetable with dark green leaves and thick w
 
 <h1>🌿Fennel Bulb</h1>
 
-<img src=".jpg" width="200"> 
+<img src="fennel-bulb.jpg" width="200"> 
 
-**Common Name:** 
+**Common Name:** Fennel
 
-**Scientific Name:** 
+**Scientific Name:** Foeniculum vulgare
 
-**Description:**
+**Description:** A crunchy, aromatic vegetable with a bulbous base, feathery green leaves, and a mild anise-like flavor. Commonly used in salads, soups, and cooking, it is rich in fiber, vitamin C, and antioxidants.
 
 
