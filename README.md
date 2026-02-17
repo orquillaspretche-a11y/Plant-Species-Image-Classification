@@ -38,15 +38,16 @@ Petchay (Bok Choy) is a leafy green vegetable with dark green leaves and thick w
 
 <h1>🌿Lactuca Sativa</h1>
 
-<img src="Lactuca Sativa.jfif" width="200"> 
+<img src="Lactuca sativa.jfif" width="200"> 
 
-**Common Name:** 
+**Common Name:** Lettuce
 
-**Scientific Name:** 
+**Scientific Name:** Lactuca Sativa
 
 **Description:**
+A leafy green vegetable commonly used in salads and sandwiches, with crisp leaves and mild flavor. It is rich in vitamins A and K and grown as an agricultural crop worldwide.
 
-<h1>🌿</h1>
+<h1>🌿Butterhead</h1>
 
 <img src="" width="200"> 
 
@@ -55,6 +56,7 @@ Petchay (Bok Choy) is a leafy green vegetable with dark green leaves and thick w
 **Scientific Name:** 
 
 **Description:**
+
 
 
 
