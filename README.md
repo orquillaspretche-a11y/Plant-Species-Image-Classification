@@ -49,7 +49,7 @@ A leafy green vegetable commonly used in salads and sandwiches, with crisp leave
 
 <h1>🌿Butterhead</h1>
 
-<img src="" width="200"> 
+<img src="Butterhead lettuce" width="200"> 
 
 **Common Name:** 
 
