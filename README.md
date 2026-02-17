@@ -13,7 +13,7 @@ The purpose of this project is to develop an image classification model that can
 
 B. Plant Species Section
 
-<h1>🌿Collard Greens</h1>
+<h1>1. Collard Greens</h1>
 
 <img src="Collard Greens.jfif" width="200"> 
 
@@ -25,7 +25,7 @@ B. Plant Species Section
 Collard greens are a type of hardy, dark green, leafy vegetable in the Brassica family, closely related to kale and cabbage. 
 
 
-<h1>🌿Petchay</h1>
+<h1>2. Petchay</h1>
 
 <img src="Petchay.jpeg" width="200"> 
 
@@ -36,7 +36,7 @@ Collard greens are a type of hardy, dark green, leafy vegetable in the Brassica 
 **Description:**
 Petchay (Bok Choy) is a leafy green vegetable with dark green leaves and thick white stalks.
 
-<h1>🌿Lactuca Sativa</h1>
+<h1>3. Lactuca Sativa</h1>
 
 <img src="Lactuca sativa.jfif" width="200"> 
 
@@ -46,7 +46,7 @@ Petchay (Bok Choy) is a leafy green vegetable with dark green leaves and thick w
 
 **Description:** A leafy green vegetable commonly used in salads and sandwiches, with crisp leaves and mild flavor. Grown as an agricultural crop worldwide.
 
-<h1>🌿Butterhead Lettuce</h1>
+<h1>4. Butterhead Lettuce</h1>
 
 <img src="Butterhead lettuce.jfif" width="200"> 
 
@@ -56,7 +56,7 @@ Petchay (Bok Choy) is a leafy green vegetable with dark green leaves and thick w
 
 **Description:** A soft, tender leafy vegetable with loosely packed, buttery-textured leaves. It is rich in vitamins A and K and grown as an agricultural crop.
 
-<h1>🌿Little Gem Lettuce</h1>
+<h1>5. Little Gem Lettuce</h1>
 
 <img src="Little Gem lettuce.jfif" width="200"> 
 
@@ -66,7 +66,7 @@ Petchay (Bok Choy) is a leafy green vegetable with dark green leaves and thick w
 
 **Description:** A small, crisp lettuce with tender, sweet leaves. Often used in salads and as a garnish, it is nutritious and easy to grow in gardens or agricultural settings.
 
-<h1>🌿Bibb Lettuce</h1>
+<h1>6. Bibb Lettuce</h1>
 
 <img src="Bibb Lettuce.jpg" width="200"> 
 
@@ -76,7 +76,7 @@ Petchay (Bok Choy) is a leafy green vegetable with dark green leaves and thick w
 
 **Description:** A small, soft-leafed lettuce with a buttery texture and mild flavor. It is rich in vitamins and easy to grow in home gardens or farms.
 
-<h1>🌿Fennel Bulb</h1>
+<h1>7. Fennel Bulb</h1>
 
 <img src="fennel-bulb.jpg" width="200"> 
 
@@ -86,7 +86,7 @@ Petchay (Bok Choy) is a leafy green vegetable with dark green leaves and thick w
 
 **Description:** A crunchy, aromatic vegetable with a bulbous base, feathery green leaves, and a mild anise-like flavor. Commonly used in salads, soups, and cooking, it is rich in fiber, vitamin C, and antioxidants.
 
-<h1>🌿Kohlrabi</h1>
+<h1>8. Kohlrabi</h1>
 
 <img src="Kohlrabi.jfif" width="200"> 
 
@@ -96,7 +96,7 @@ Petchay (Bok Choy) is a leafy green vegetable with dark green leaves and thick w
 
 **Description:** A crunchy, bulbous vegetable with edible stems and leaves. It has a mild, slightly sweet flavor and is commonly eaten raw in salads or cooked in soups and stir-fries.
 
-<h1>🌿Celery</h1>
+<h1>9. Celery</h1>
 
 <img src="celery.jpg" width="200"> 
 
@@ -106,7 +106,7 @@ Petchay (Bok Choy) is a leafy green vegetable with dark green leaves and thick w
 
 **Description:** A crunchy, fibrous vegetable with long green stalks and feathery leaves. Commonly used in salads, soups, and stir-fries, it is low in calories and rich in vitamins A, C, and K, as well as dietary fiber.
 
-<h1>🌿Kale</h1>
+<h1>10. Kale</h1>
 
 <img src="Kale.jfif" width="200"> 
 
@@ -116,7 +116,7 @@ Petchay (Bok Choy) is a leafy green vegetable with dark green leaves and thick w
 
 **Description:** A leafy green vegetable with curly or flat leaves and a slightly bitter flavor. Commonly used in salads, smoothies, and cooking, it is rich in vitamins A, C, and K, as well as antioxidants and fiber.
 
-<h1>🌿Romaine Lettuce</h1>
+<h1>11. Romaine Lettuce</h1>
 
 <img src="Romaine Lettuce.jfif" width="200"> 
 
@@ -126,7 +126,7 @@ Petchay (Bok Choy) is a leafy green vegetable with dark green leaves and thick w
 
 **Description:** A crisp, elongated leafy vegetable with a firm rib down the center. Commonly used in salads like Caesar salad, it is rich in vitamins A, C, and K, and is widely cultivated as an agricultural crop.
 
-<h1>🌿Iceberg Lettuce</h1>
+<h1>12. Iceberg Lettuce</h1>
 
 <img src="iceberg lettuce.jfif" width="200"> 
 
@@ -135,6 +135,37 @@ Petchay (Bok Choy) is a leafy green vegetable with dark green leaves and thick w
 **Scientific Name:** Lactuca sativa var. capitata
 
 **Description:** A crisp, pale green lettuce with tightly packed, round heads. Commonly used in salads and sandwiches, it has a mild flavor and is rich in water and dietary fiber.
+
+<h1>13. Arugula Lettuce</h1>
+
+<img src="arugula lettuce.png" width="200"> 
+
+**Common Name:** Arugula / Rocket
+
+**Scientific Name:** Eruca vesicaria
+
+**Description:** A leafy green with a peppery, slightly bitter taste. Commonly used in salads, sandwiches, and garnishes, it is rich in vitamins A, C, and K, as well as antioxidants.
+
+<h1>14. Escarole Lettuce</h1>
+
+<img src="Escarole Lettuce.jfif" width="200"> 
+
+**Common Name:** Escarole
+
+**Scientific Name:** Cichorium endivia var. latifolia
+
+**Description:** A leafy green with broad, slightly curly leaves and a mildly bitter taste. Commonly used in salads, soups, and sautés, it is rich in vitamins A and K, fiber, and antioxidants.
+
+<h1>15. Buttercrunch Lettuce</h1>
+
+<img src="Buttercrunch Lettuce.jfif" width="200"> 
+
+**Common Name:** Buttercrunch Lettuce
+
+**Scientific Name:** Lactuca sativa var. capitata ‘Buttercrunch’
+
+**Description:** A crisp, tender lettuce with soft, buttery-textured leaves. Commonly used in salads and sandwiches, it is easy to grow and rich in vitamins A and K.
+
 
 
 
