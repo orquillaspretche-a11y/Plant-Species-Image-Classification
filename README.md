@@ -88,13 +88,40 @@ Petchay (Bok Choy) is a leafy green vegetable with dark green leaves and thick w
 
 <h1>🌿Kohlrabi</h1>
 
-<img src="Kohlrabi .jpg" width="200"> 
+<img src="Kohlrabi.jfif" width="200"> 
 
 **Common Name:** Kohlrabi / German Turnip
 
 **Scientific Name:** Brassica oleracea var. gongylodes
 
 **Description:** A crunchy, bulbous vegetable with edible stems and leaves. It has a mild, slightly sweet flavor and is commonly eaten raw in salads or cooked in soups and stir-fries.
+
+<h1>🌿Celery</h1>
+
+<img src="celery.jpg" width="200"> 
+
+**Common Name:** Celery
+
+**Scientific Name:** Apium graveolens
+
+**Description:** A crunchy, fibrous vegetable with long green stalks and feathery leaves. Commonly used in salads, soups, and stir-fries, it is low in calories and rich in vitamins A, C, and K, as well as dietary fiber.
+
+<h1>🌿Kale</h1>
+
+<img src=".jpg" width="200"> 
+
+**Common Name:** Kale
+
+**Scientific Name:** Brassica oleracea var. sabellica
+
+**Description:** A leafy green vegetable with curly or flat leaves and a slightly bitter flavor. Commonly used in salads, smoothies, and cooking, it is rich in vitamins A, C, and K, as well as antioxidants and fiber.
+
+
+
+
+
+
+
 
 
 
