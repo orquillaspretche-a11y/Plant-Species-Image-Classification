@@ -15,7 +15,7 @@ B. Plant Species Section
 
 <h1>🌿Collard Greens</h1>
 
-<img src="Collard Greens.jfif" width="300"> 
+<img src="Collard Greens.jfif" width="200"> 
 
 **Common Name:** Collards
 
@@ -26,3 +26,36 @@ Collard greens are a type of hardy, dark green, leafy vegetable in the Brassica 
 
 
 <h1>🌿Petchay</h1>
+
+<img src="Petchay.jpeg" width="200"> 
+
+**Common Name:** Pechay / Bok Choy / Chinese Cabbage
+
+**Scientific Name:** Brassica rapa subsp. chinensis
+
+**Description:**
+Petchay (Bok Choy) is a leafy green vegetable with dark green leaves and thick white stalks.
+
+<h1>🌿Lactuca Sativa</h1>
+
+<img src="" width="200"> 
+
+**Common Name:** 
+
+**Scientific Name:** 
+
+**Description:**
+
+<h1>🌿</h1>
+
+<img src="Petchay.jpeg" width="200"> 
+
+**Common Name:** 
+
+**Scientific Name:** 
+
+**Description:**
+
+
+
+
