@@ -108,7 +108,7 @@ Petchay (Bok Choy) is a leafy green vegetable with dark green leaves and thick w
 
 <h1>🌿Kale</h1>
 
-<img src=".jpg" width="200"> 
+<img src="Kale.jfif" width="200"> 
 
 **Common Name:** Kale
 
@@ -116,13 +116,25 @@ Petchay (Bok Choy) is a leafy green vegetable with dark green leaves and thick w
 
 **Description:** A leafy green vegetable with curly or flat leaves and a slightly bitter flavor. Commonly used in salads, smoothies, and cooking, it is rich in vitamins A, C, and K, as well as antioxidants and fiber.
 
+<h1>🌿Romaine Lettuce</h1>
 
+<img src="Romaine Lettuce.jfif" width="200"> 
 
+**Common Name:** Romaine Lettuce / Cos Lettuce
 
+**Scientific Name:** Lactuca sativa var. longifolia
 
+**Description:** A crisp, elongated leafy vegetable with a firm rib down the center. Commonly used in salads like Caesar salad, it is rich in vitamins A, C, and K, and is widely cultivated as an agricultural crop.
 
+<h1>🌿Iceberg Lettuce</h1>
 
+<img src="iceberg lettuce.jfif" width="200"> 
 
+**Common Name:** Iceberg Lettuce
+
+**Scientific Name:** Lactuca sativa var. capitata
+
+**Description:** A crisp, pale green lettuce with tightly packed, round heads. Commonly used in salads and sandwiches, it has a mild flavor and is rich in water and dietary fiber.
 
 
 
