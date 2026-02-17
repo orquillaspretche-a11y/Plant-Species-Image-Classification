@@ -44,20 +44,28 @@ Petchay (Bok Choy) is a leafy green vegetable with dark green leaves and thick w
 
 **Scientific Name:** Lactuca Sativa
 
-**Description:**
-A leafy green vegetable commonly used in salads and sandwiches, with crisp leaves and mild flavor. It is rich in vitamins A and K and grown as an agricultural crop worldwide.
+**Description:** A leafy green vegetable commonly used in salads and sandwiches, with crisp leaves and mild flavor. Grown as an agricultural crop worldwide.
 
-<h1>🌿Butterhead</h1>
+<h1>🌿Butterhead Lettuce</h1>
 
-<img src="Butterhead lettuce" width="200"> 
+<img src="Butterhead lettuce.jfif" width="200"> 
 
-**Common Name:** 
+**Common Name:** Butterhead Lettuce
 
-**Scientific Name:** 
+**Scientific Name:** Lactuca sativa var. capitata 
 
-**Description:**
+**Description:** A soft, tender leafy vegetable with loosely packed, buttery-textured leaves. It is rich in vitamins A and K and grown as an agricultural crop.
 
+<h1>🌿Little Gem Lettuce</h1>
 
+<img src="Little Gem lettuce.jfif" width="200"> 
 
+**Common Name:** Little Gem Lettuce
+
+**Scientific Name:** Lactuca sativa var. capitata ‘Little Gem’
+
+**Description:** A small, crisp lettuce with tender, sweet leaves. Often used in salads and as a garnish, it is nutritious and easy to grow in gardens or agricultural settings.
+
+<h1>🌿Bibb Lettuce</h1>
 
 
