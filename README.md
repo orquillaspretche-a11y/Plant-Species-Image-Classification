@@ -38,7 +38,7 @@ Petchay (Bok Choy) is a leafy green vegetable with dark green leaves and thick w
 
 <h1>🌿Lactuca Sativa</h1>
 
-<img src="" width="200"> 
+<img src="Lactuca Sativa.jfif" width="200"> 
 
 **Common Name:** 
 
@@ -48,7 +48,7 @@ Petchay (Bok Choy) is a leafy green vegetable with dark green leaves and thick w
 
 <h1>🌿</h1>
 
-<img src="Petchay.jpeg" width="200"> 
+<img src="" width="200"> 
 
 **Common Name:** 
 
