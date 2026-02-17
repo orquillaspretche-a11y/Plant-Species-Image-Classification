@@ -10,9 +10,19 @@ This project focuses on developing an image classification model that can identi
 
 The purpose of this project is to develop an image classification model that can accurately identify different lettuce varieties using machine learning. By training the model with labeled images, the system can automatically recognize and classify lettuce based on visual characteristics such as leaf shape, texture, and color.
 
+
 B. Plant Species Section
 
-## Collard Greens <img src="Collard Greens.jfif" width="300"> 
-**Common Name:** 
+<h1>🌿Collard Greens</h1>
+
+<img src="Collard Greens.jfif" width="300"> 
+
+**Common Name:** Collards
+
 **Scientific Name:** Collard Greens
-**Description:** Byblis gigantea is a carnivorous plant that traps insects using sticky leaves
+
+**Description:**
+Collard greens are a type of hardy, dark green, leafy vegetable in the Brassica family, closely related to kale and cabbage. 
+
+
+<h1>🌿Petchay</h1>
