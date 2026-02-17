@@ -188,7 +188,7 @@ Petchay (Bok Choy) is a leafy green vegetable with dark green leaves and thick w
 
 <h1>18. Green Leaf Lettuce</h1>
 
-<img src=" green leaf lettuce.jfif" width="200"> 
+<img src="green leaf lettuce.jfif" width="200"> 
 
 **Common Name:** Green Leaf Lettuce
 
@@ -198,7 +198,7 @@ Petchay (Bok Choy) is a leafy green vegetable with dark green leaves and thick w
 
 <h1>19. Oak Leaf Lettuce</h1>
 
-<img src=" Oak leaf lettuce.jfif" width="200"> 
+<img src="Oak leaf lettuce.jfif" width="200"> 
 
 **Common Name:** Oak Leaf Lettuce
 
@@ -208,7 +208,7 @@ Petchay (Bok Choy) is a leafy green vegetable with dark green leaves and thick w
 
 <h1>20.Loose Leaf Lettuce</h1>
 
-<img src=" Loose Leaf Lettuce.jpg" width="200"> 
+<img src="Loose Leaf Lettuce.jpg" width="200"> 
 
 **Common Name:** Loose Leaf Lettuce
 
@@ -216,5 +216,17 @@ Petchay (Bok Choy) is a leafy green vegetable with dark green leaves and thick w
 
 **Description:** A leafy vegetable with loose, tender leaves that do not form a head. Commonly used in salads and sandwiches, it has a mild flavor and is rich in vitamins A, C, and K.
 
+<h1>Reflection Questions:</h1>
 
+Answer the following questions based on your experience:
+
+1. How did the number of images per class affect your model’s accuracy?
+
+2. Which plant species were most commonly misclassified and why?
+
+3. How did changing the epochs, batch size, or learning rate affect the training results?
+
+4. What challenges did you encounter during dataset collection and labeling?
+
+5. If you were to improve your model, what specific changes would you make and why?
 
