@@ -68,4 +68,22 @@ Petchay (Bok Choy) is a leafy green vegetable with dark green leaves and thick w
 
 <h1>🌿Bibb Lettuce</h1>
 
+<img src="Bibb Lettuce.jpg" width="200"> 
+
+**Common Name:** Bibb Lettuce
+
+**Scientific Name:** Lactuca sativa var. capitata ‘Bibb’
+
+**Description:** A small, soft-leafed lettuce with a buttery texture and mild flavor. It is rich in vitamins and easy to grow in home gardens or farms.
+
+<h1>🌿Fennel Bulb</h1>
+
+<img src=".jpg" width="200"> 
+
+**Common Name:** 
+
+**Scientific Name:** 
+
+**Description:**
+
 
