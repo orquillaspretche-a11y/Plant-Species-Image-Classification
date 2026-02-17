@@ -166,6 +166,55 @@ Petchay (Bok Choy) is a leafy green vegetable with dark green leaves and thick w
 
 **Description:** A crisp, tender lettuce with soft, buttery-textured leaves. Commonly used in salads and sandwiches, it is easy to grow and rich in vitamins A and K.
 
+<h1>16. Batavia Lettuce</h1>
+
+<img src="batavia lettuce.jfif" width="200"> 
+
+**Common Name:** Batavia Lettuce
+
+**Scientific Name:** Lactuca sativa var. capitata ‘Batavia’
+
+**Description:** A crisp, semi-loose leafy lettuce with a mild, slightly sweet flavor. Commonly used in salads and sandwiches, it is crunchy, nutritious, and grown as an agricultural crop.
+
+<h1>17. Frisee Lettuce</h1>
+
+<img src="frisee lettuce.jfif" width="200"> 
+
+**Common Name:** Frisée / Curly Endive
+
+**Scientific Name:** Cichorium endivia var. crispa
+
+**Description:** A leafy green with finely curled, bitter-tasting leaves. Commonly used in salads and garnishes, it adds texture and flavor and is rich in vitamins A and K, fiber, and antioxidants.
+
+<h1>18. Green Leaf Lettuce</h1>
+
+<img src=" green leaf lettuce.jfif" width="200"> 
+
+**Common Name:** Green Leaf Lettuce
+
+**Scientific Name:** Lactuca sativa var. crispa
+
+**Description:** A leafy vegetable with loose, tender green leaves and a mild flavor. Commonly used in salads and sandwiches, it is rich in vitamins A, C, and K, and easy to cultivate as an agricultural crop.
+
+<h1>19. Oak Leaf Lettuce</h1>
+
+<img src=" Oak leaf lettuce.jfif" width="200"> 
+
+**Common Name:** Oak Leaf Lettuce
+
+**Scientific Name:** Lactuca sativa var. crispa
+
+**Description:** A leafy green with soft, lobed leaves resembling oak leaves. It has a mild flavor, is commonly used in salads and sandwiches, and is rich in vitamins A, C, and K.
+
+<h1>20.Loose Leaf Lettuce</h1>
+
+<img src=" Loose Leaf Lettuce.jpg" width="200"> 
+
+**Common Name:** Loose Leaf Lettuce
+
+**Scientific Name:** Lactuca sativa var. crispa
+
+**Description:** A leafy vegetable with loose, tender leaves that do not form a head. Commonly used in salads and sandwiches, it has a mild flavor and is rich in vitamins A, C, and K.
 
 
 
