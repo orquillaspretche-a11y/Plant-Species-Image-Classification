@@ -10,4 +10,5 @@ This project focuses on developing an image classification model that can identi
 
 The purpose of this project is to develop an image classification model that can accurately identify different lettuce varieties using machine learning. By training the model with labeled images, the system can automatically recognize and classify lettuce based on visual characteristics such as leaf shape, texture, and color.
 
+B. Plant Species Section
 
