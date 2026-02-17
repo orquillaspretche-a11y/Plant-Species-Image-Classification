@@ -12,3 +12,7 @@ The purpose of this project is to develop an image classification model that can
 
 B. Plant Species Section
 
+## Collard Greens <img src="images/byblis.jpg" width="300"> 
+**Common Name:** 
+**Scientific Name:** Collard Greens
+**Description:** Byblis gigantea is a carnivorous plant that traps insects using sticky leaves
