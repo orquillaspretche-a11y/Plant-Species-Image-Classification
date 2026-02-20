@@ -18,10 +18,11 @@ B. Plant Species Section
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="images/plants/images/image-representatives/dancinglady.jpg" width="200"><br><br>
-<b>Common Name: </b>NAME HERE<br>
-<b>Scientific Name: </b> <i>NAME HERE</i> <br><br>
-<b>Description:</b> CAPTION HERE
+<img src="Bibb Lettuce.jpg" width="200"><br><br>
+<b>Common Name: </b>Bibb Lettuce<br>
+<b>Scientific Name: </b> <i>Lactuca sativa var. capitata ‘Bibb’
+</i> <br><br>
+<b>Description:</b> A small, soft-leafed lettuce with a buttery texture and mild flavor. It is rich in vitamins and easy to grow in home gardens or farms.
 </td>
 
 <td align="center" width="33%">
