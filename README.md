@@ -12,11 +12,10 @@ The purpose of this project is to develop an image classification model that can
 
 ## Embedded Screenshots Folders
 
-- [📑 Exported Files](images/plants/images/Exported Files/)
-- [📑 Image Representatives](images/plants/images/image-representatives/)
-- [📑 Model Evaluation](images/plants/images/model-evaluation/)
-- [📑 Model Testing](images/plants/images/model-testing/)
-- [📑 Model Training Details](images/plants/images/model-training-details/)
+- [📑 Exported Files](images/plants/images/Exported_Files/)
+- [📑 Model Evaluation](images/plants/images/Model_Evaluation/)
+- [📑 Model Training](images/plants/images/Model_Training/)
+- [📑 Model Training Details](images/plants/images/Model_Training_Details/)
 
 
 B. Plant Species Section
