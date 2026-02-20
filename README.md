@@ -13,220 +13,31 @@ The purpose of this project is to develop an image classification model that can
 
 B. Plant Species Section
 
-<h1>1. Collard Greens</h1>
 
-<img src="Collard Greens.jfif" width="200"> 
 
-**Common Name:** Collards
-
-**Scientific Name:** Collard Greens
-
-**Description:**
-Collard greens are a type of hardy, dark green, leafy vegetable in the Brassica family, closely related to kale and cabbage. 
-
-
-<h1>2. Petchay</h1>
-
-<img src="Petchay.jpeg" width="200"> 
-
-**Common Name:** Pechay / Bok Choy / Chinese Cabbage
-
-**Scientific Name:** Brassica rapa subsp. chinensis
-
-**Description:**
-Petchay (Bok Choy) is a leafy green vegetable with dark green leaves and thick white stalks.
-
-<h1>3. Lactuca Sativa</h1>
-
-<img src="Lactuca sativa.jfif" width="200"> 
-
-**Common Name:** Lettuce
-
-**Scientific Name:** Lactuca Sativa
-
-**Description:** A leafy green vegetable commonly used in salads and sandwiches, with crisp leaves and mild flavor. Grown as an agricultural crop worldwide.
-
-<h1>4. Butterhead Lettuce</h1>
-
-<img src="Butterhead lettuce.jfif" width="200"> 
-
-**Common Name:** Butterhead Lettuce
-
-**Scientific Name:** Lactuca sativa var. capitata 
-
-**Description:** A soft, tender leafy vegetable with loosely packed, buttery-textured leaves. It is rich in vitamins A and K and grown as an agricultural crop.
-
-<h1>5. Little Gem Lettuce</h1>
-
-<img src="Little Gem lettuce.jfif" width="200"> 
-
-**Common Name:** Little Gem Lettuce
-
-**Scientific Name:** Lactuca sativa var. capitata ‘Little Gem’
-
-**Description:** A small, crisp lettuce with tender, sweet leaves. Often used in salads and as a garnish, it is nutritious and easy to grow in gardens or agricultural settings.
-
-<h1>6. Bibb Lettuce</h1>
-
-<img src="Bibb Lettuce.jpg" width="200"> 
-
-**Common Name:** Bibb Lettuce
-
-**Scientific Name:** Lactuca sativa var. capitata ‘Bibb’
-
-**Description:** A small, soft-leafed lettuce with a buttery texture and mild flavor. It is rich in vitamins and easy to grow in home gardens or farms.
-
-<h1>7. Fennel Bulb</h1>
-
-<img src="fennel-bulb.jpg" width="200"> 
-
-**Common Name:** Fennel
-
-**Scientific Name:** Foeniculum vulgare
-
-**Description:** A crunchy, aromatic vegetable with a bulbous base, feathery green leaves, and a mild anise-like flavor. Commonly used in salads, soups, and cooking, it is rich in fiber, vitamin C, and antioxidants.
-
-<h1>8. Kohlrabi</h1>
-
-<img src="Kohlrabi.jfif" width="200"> 
-
-**Common Name:** Kohlrabi / German Turnip
-
-**Scientific Name:** Brassica oleracea var. gongylodes
-
-**Description:** A crunchy, bulbous vegetable with edible stems and leaves. It has a mild, slightly sweet flavor and is commonly eaten raw in salads or cooked in soups and stir-fries.
-
-<h1>9. Celery</h1>
-
-<img src="celery.jpg" width="200"> 
-
-**Common Name:** Celery
-
-**Scientific Name:** Apium graveolens
-
-**Description:** A crunchy, fibrous vegetable with long green stalks and feathery leaves. Commonly used in salads, soups, and stir-fries, it is low in calories and rich in vitamins A, C, and K, as well as dietary fiber.
-
-<h1>10. Kale</h1>
-
-<img src="Kale.jfif" width="200"> 
-
-**Common Name:** Kale
-
-**Scientific Name:** Brassica oleracea var. sabellica
-
-**Description:** A leafy green vegetable with curly or flat leaves and a slightly bitter flavor. Commonly used in salads, smoothies, and cooking, it is rich in vitamins A, C, and K, as well as antioxidants and fiber.
-
-<h1>11. Romaine Lettuce</h1>
-
-<img src="Romaine Lettuce.jfif" width="200"> 
-
-**Common Name:** Romaine Lettuce / Cos Lettuce
-
-**Scientific Name:** Lactuca sativa var. longifolia
-
-**Description:** A crisp, elongated leafy vegetable with a firm rib down the center. Commonly used in salads like Caesar salad, it is rich in vitamins A, C, and K, and is widely cultivated as an agricultural crop.
-
-<h1>12. Iceberg Lettuce</h1>
-
-<img src="iceberg lettuce.jfif" width="200"> 
-
-**Common Name:** Iceberg Lettuce
-
-**Scientific Name:** Lactuca sativa var. capitata
-
-**Description:** A crisp, pale green lettuce with tightly packed, round heads. Commonly used in salads and sandwiches, it has a mild flavor and is rich in water and dietary fiber.
-
-<h1>13. Arugula Lettuce</h1>
-
-<img src="arugula lettuce.png" width="200"> 
-
-**Common Name:** Arugula / Rocket
-
-**Scientific Name:** Eruca vesicaria
-
-**Description:** A leafy green with a peppery, slightly bitter taste. Commonly used in salads, sandwiches, and garnishes, it is rich in vitamins A, C, and K, as well as antioxidants.
-
-<h1>14. Escarole Lettuce</h1>
-
-<img src="Escarole Lettuce.jfif" width="200"> 
-
-**Common Name:** Escarole
-
-**Scientific Name:** Cichorium endivia var. latifolia
-
-**Description:** A leafy green with broad, slightly curly leaves and a mildly bitter taste. Commonly used in salads, soups, and sautés, it is rich in vitamins A and K, fiber, and antioxidants.
-
-<h1>15. Buttercrunch Lettuce</h1>
-
-<img src="Buttercrunch Lettuce.jfif" width="200"> 
-
-**Common Name:** Buttercrunch Lettuce
-
-**Scientific Name:** Lactuca sativa var. capitata ‘Buttercrunch’
-
-**Description:** A crisp, tender lettuce with soft, buttery-textured leaves. Commonly used in salads and sandwiches, it is easy to grow and rich in vitamins A and K.
-
-<h1>16. Batavia Lettuce</h1>
-
-<img src="batavia lettuce.jfif" width="200"> 
-
-**Common Name:** Batavia Lettuce
-
-**Scientific Name:** Lactuca sativa var. capitata ‘Batavia’
-
-**Description:** A crisp, semi-loose leafy lettuce with a mild, slightly sweet flavor. Commonly used in salads and sandwiches, it is crunchy, nutritious, and grown as an agricultural crop.
-
-<h1>17. Frisee Lettuce</h1>
-
-<img src="frisee lettuce.jfif" width="200"> 
-
-**Common Name:** Frisée / Curly Endive
-
-**Scientific Name:** Cichorium endivia var. crispa
-
-**Description:** A leafy green with finely curled, bitter-tasting leaves. Commonly used in salads and garnishes, it adds texture and flavor and is rich in vitamins A and K, fiber, and antioxidants.
-
-<h1>18. Green Leaf Lettuce</h1>
-
-<img src="green leaf lettuce.jfif" width="200"> 
-
-**Common Name:** Green Leaf Lettuce
-
-**Scientific Name:** Lactuca sativa var. crispa
-
-**Description:** A leafy vegetable with loose, tender green leaves and a mild flavor. Commonly used in salads and sandwiches, it is rich in vitamins A, C, and K, and easy to cultivate as an agricultural crop.
-
-<h1>19. Oak Leaf Lettuce</h1>
-
-<img src="Oak leaf lettuce.jfif" width="200"> 
-
-**Common Name:** Oak Leaf Lettuce
-
-**Scientific Name:** Lactuca sativa var. crispa
-
-**Description:** A leafy green with soft, lobed leaves resembling oak leaves. It has a mild flavor, is commonly used in salads and sandwiches, and is rich in vitamins A, C, and K.
-
-<h1>20.Loose Leaf Lettuce</h1>
-
-<img src="Loose Leaf Lettuce.jpg" width="200"> 
-
-**Common Name:** Loose Leaf Lettuce
-
-**Scientific Name:** Lactuca sativa var. crispa
-
-**Description:** A leafy vegetable with loose, tender leaves that do not form a head. Commonly used in salads and sandwiches, it has a mild flavor and is rich in vitamins A, C, and K.
-
-<h1>Reflection Questions:</h1>
-
-Answer the following questions based on your experience:
-
-1. How did the number of images per class affect your model’s accuracy?
-
-2. Which plant species were most commonly misclassified and why?
-
-3. How did changing the epochs, batch size, or learning rate affect the training results?
-
-4. What challenges did you encounter during dataset collection and labeling?
-
-5. If you were to improve your model, what specific changes would you make and why?
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="images/plants/images/image-representatives/dancinglady.jpg" width="200"><br><br>
+<b>Common Name: </b>NAME HERE<br>
+<b>Scientific Name: </b> <i>NAME HERE</i> <br><br>
+<b>Description:</b> CAPTION HERE
+</td>
+
+<td align="center" width="33%">
+<img src="images/plants/images/image-representatives/dancinglady.jpg" width="200"><br><br>
+<b>Common Name: </b>NAME HERE<br>
+<b>Scientific Name: </b> <i>NAME HERE</i> <br><br>
+<b>Description:</b> CAPTION HERE
+</td>
+
+
+<td align="center" width="33%">
+<img src="images/plants/images/image-representatives/dancinglady.jpg" width="200"><br><br>
+<b>Common Name: </b>NAME HERE<br>
+<b>Scientific Name: </b> <i>NAME HERE</i> <br><br>
+<b>Description:</b> CAPTION HERE
+
+</td>
+</table>
 
