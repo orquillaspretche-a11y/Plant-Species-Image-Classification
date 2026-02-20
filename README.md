@@ -231,5 +231,64 @@ B. Plant Species Section
 </table>
 
 
+## Model Evaluation
 
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="images/plants/images/Model Evaluation/Under the hood Settings.png" width="400"><br><br>
+</td>
+</table>
+
+## Model Training
+
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="images/plants/images/Model Training/Test 1.png" width="400"><br><br>
+</td>
+
+  <td align="center" width="50%">
+<img src="images/plants/images/Model Training/Test 2.png" width="400"><br><br>
+</td>
+
+<table>
+<td align="center" width="50%">
+<img src="images/plants/images/Model Training/Test 3.png" width="400"><br><br>
+</td>
+
+<td align="center" width="50%">
+<img src="images/plants/images/Model Training/Test 4.png" width="400"><br><br>
+</td>
+</table>
+
+<table>
+<td align="center" width="50%">
+<img src="images/plants/images/Model Training/Test 5.png" width="400"><br><br>
+</td>
+
+<td align="center" width="50%">
+<img src="images/plants/images/Model Training/Test 6.png" width="400"><br><br>
+</td>
+</table>
+
+<table>
+<td align="center" width="50%">
+<img src="images/plants/images/Model Training/Test 7.png" width="400"><br><br>
+</td>
+
+<td align="center" width="50%">
+<img src="images/plants/images/Model Training/Test 8.png" width="400"><br><br>
+</td>
+</table>
+
+<table>
+<td align="center" width="50%">
+<img src="images/plants/images/Model Training/Test 9.png" width="400"><br><br>
+</td>
+
+<td align="center" width="50%">
+<img src="images/plants/images/Model Training/Test 10.png" width="400"><br><br>
+</td>
+</table>
 
