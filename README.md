@@ -10,10 +10,16 @@ This project focuses on developing an image classification model that can identi
 
 The purpose of this project is to develop an image classification model that can accurately identify different lettuce varieties using machine learning. By training the model with labeled images, the system can automatically recognize and classify lettuce based on visual characteristics such as leaf shape, texture, and color.
 
+## Embedded Screenshots Folders
+
+- [📑 Exported Files](images/plants/images/Exported Files/)
+- [📑 Image Representatives](images/plants/images/image-representatives/)
+- [📑 Model Evaluation](images/plants/images/model-evaluation/)
+- [📑 Model Testing](images/plants/images/model-testing/)
+- [📑 Model Training Details](images/plants/images/model-training-details/)
+
 
 B. Plant Species Section
-
-
 
 <table>
 <tr>
@@ -218,6 +224,8 @@ B. Plant Species Section
 <b>Common Name: </b>Loose Leaf Lettuce<br>
 <b>Scientific Name: </b> <i>Lactuca sativa var. crispa</i> <br><br>
 <b>Description:</b>  A leafy vegetable with loose, tender leaves that do not form a head. Commonly used in salads and sandwiches, it has a mild flavor and is rich in vitamins A, C, and K.
+
+
 
 
 </td>
