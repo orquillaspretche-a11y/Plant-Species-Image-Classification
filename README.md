@@ -26,18 +26,199 @@ B. Plant Species Section
 </td>
 
 <td align="center" width="33%">
-<img src="images/plants/images/image-representatives/dancinglady.jpg" width="200"><br><br>
-<b>Common Name: </b>NAME HERE<br>
-<b>Scientific Name: </b> <i>NAME HERE</i> <br><br>
-<b>Description:</b> CAPTION HERE
+<img src="Collard Greens.jfif" width="200"><br><br>
+<b>Common Name: </b>Collards<br>
+<b>Scientific Name: </b> <i>Collard Greens</i> <br><br>
+<b>Description:</b> Collard greens are a type of hardy, dark green, leafy vegetable in the Brassica family, closely related to kale and cabbage. 
 </td>
 
 
 <td align="center" width="33%">
-<img src="images/plants/images/image-representatives/dancinglady.jpg" width="200"><br><br>
-<b>Common Name: </b>NAME HERE<br>
-<b>Scientific Name: </b> <i>NAME HERE</i> <br><br>
-<b>Description:</b> CAPTION HERE
+<img src="Petchay.jpeg" width="200"><br><br>
+<b>Common Name: </b>Pechay / Bok Choy / Chinese Cabbage<br>
+<b>Scientific Name: </b> <i>Brassica rapa subsp. chinensis</i> <br><br>
+<b>Description:</b> Petchay (Bok Choy) is a leafy green vegetable with dark green leaves and thick white stalks.
+
+</td>
+</table>
+
+
+
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="Lactuca sativa.jfif" width="200"><br><br>
+<b>Common Name: </b>Lettuce<br>
+<b>Scientific Name: </b> <i> Lactuca Sativa</i> <br><br>
+<b>Description:</b> A leafy green vegetable commonly used in salads and sandwiches, with crisp leaves and mild flavor. Grown as an agricultural crop worldwide.
+
+</td>
+
+<td align="center" width="33%">
+<img src="Butterhead lettuce.jfif" width="200"><br><br>
+<b>Common Name: </b>Butterhead Lettuce<br>
+<b>Scientific Name: </b> <i>Lactuca sativa var. capitata</i> <br><br>
+<b>Description:</b> A soft, tender leafy vegetable with loosely packed, buttery-textured leaves. It is rich in vitamins A and K and grown as an agricultural crop.
+</td>
+
+
+<td align="center" width="33%">
+<img src="Little Gem lettuce.jfif" width="200"><br><br>
+<b>Common Name: </b>Little Gem Lettuce<br>
+<b>Scientific Name: </b> <i>Lactuca sativa var. capitata ‘Little Gem’</i> <br><br>
+<b>Description:</b> A small, crisp lettuce with tender, sweet leaves. Often used in salads and as a garnish, it is nutritious and easy to grow in gardens or agricultural settings.
+
+</td>
+</table>
+
+
+
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="fennel-bulb.jpg" width="200"><br><br>
+<b>Common Name: </b>Fennel<br>
+<b>Scientific Name: </b> <i> Foeniculum vulgare</i> <br><br>
+<b>Description:</b> A crunchy, aromatic vegetable with a bulbous base, feathery green leaves, and a mild anise-like flavor. Commonly used in salads, soups, and cooking, it is rich in fiber, vitamin C, and antioxidants.
+
+</td>
+
+<td align="center" width="33%">
+<img src="Kohlrabi.jfif" width="200"><br><br>
+<b>Common Name: </b>Kohlrabi / German Turnip<br>
+<b>Scientific Name: </b> <i>Brassica oleracea var. gongylodes</i> <br><br>
+<b>Description:</b> A crunchy, bulbous vegetable with edible stems and leaves. It has a mild, slightly sweet flavor and is commonly eaten raw in salads or cooked in soups and stir-fries.
+  
+</td>
+
+
+<td align="center" width="33%">
+<img src="celery.jpg" width="200"><br><br>
+<b>Common Name: </b>Celery<br>
+<b>Scientific Name: </b> <i>Apium graveolens</i> <br><br>
+<b>Description:</b> A crunchy, fibrous vegetable with long green stalks and feathery leaves. Commonly used in salads, soups, and stir-fries, it is low in calories and rich in vitamins A, C, and K, as well as dietary fiber.
+
+
+</td>
+</table>
+
+
+
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="Kale.jfif" width="200"><br><br>
+<b>Common Name: </b>Kale<br>
+<b>Scientific Name: </b> <i>Brassica oleracea var. sabellica</i> <br><br>
+<b>Description:</b> A leafy green vegetable with curly or flat leaves and a slightly bitter flavor. Commonly used in salads, smoothies, and cooking, it is rich in vitamins A, C, and K, as well as antioxidants and fiber.
+
+</td>
+
+<td align="center" width="33%">
+<img src="Romaine Lettuce.jfif" width="200"><br><br>
+<b>Common Name: </b>Romaine Lettuce / Cos Lettuce<br>
+<b>Scientific Name: </b> <i>Lactuca sativa var. longifolia</i> <br><br>
+<b>Description:</b> A crisp, elongated leafy vegetable with a firm rib down the center. Commonly used in salads like Caesar salad, it is rich in vitamins A, C, and K, and is widely cultivated as an agricultural crop.
+  
+</td>
+
+
+<td align="center" width="33%">
+<img src="iceberg lettuce.jfif" width="200"><br><br>
+<b>Common Name: </b>Iceberg Lettuce<br>
+<b>Scientific Name: </b> <i>Lactuca sativa var. capitata</i> <br><br>
+<b>Description:</b> A crisp, pale green lettuce with tightly packed, round heads. Commonly used in salads and sandwiches, it has a mild flavor and is rich in water and dietary fiber.
+
+</td>
+</table>
+
+
+
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="arugula lettuce.png" width="200"><br><br>
+<b>Common Name: </b>Arugula / Rocket<br>
+<b>Scientific Name: </b> <i>Eruca vesicaria</i> <br><br>
+<b>Description:</b> A leafy green with a peppery, slightly bitter taste. Commonly used in salads, sandwiches, and garnishes, it is rich in vitamins A, C, and K, as well as antioxidants.
+
+</td>
+
+<td align="center" width="33%">
+<img src="Escarole Lettuce.jfif" width="200"><br><br>
+<b>Common Name: </b>Escarole<br>
+<b>Scientific Name: </b> <i>Cichorium endivia var. latifolia</i> <br><br>
+<b>Description:</b> A leafy green with broad, slightly curly leaves and a mildly bitter taste. Commonly used in salads, soups, and sautés, it is rich in vitamins A and K, fiber, and antioxidants.
+  
+</td>
+
+
+<td align="center" width="33%">
+<img src="Buttercrunch Lettuce.jfif" width="200"><br><br>
+<b>Common Name: </b>Buttercrunch Lettuce<br>
+<b>Scientific Name: </b> <i> Lactuca sativa var. capitata ‘Buttercrunch’</i> <br><br>
+<b>Description:</b> A crisp, tender lettuce with soft, buttery-textured leaves. Commonly used in salads and sandwiches, it is easy to grow and rich in vitamins A and K.
+
+</td>
+</table>
+
+
+
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="batavia lettuce.jfif" width="200"><br><br>
+<b>Common Name: </b>Batavia Lettuce<br>
+<b>Scientific Name: </b> <i>Lactuca sativa var. capitata ‘Batavia’</i> <br><br>
+<b>Description:</b> A crisp, semi-loose leafy lettuce with a mild, slightly sweet flavor. Commonly used in salads and sandwiches, it is crunchy, nutritious, and grown as an agricultural crop.
+
+</td>
+
+<td align="center" width="33%">
+<img src="frisee lettuce.jfif" width="200"><br><br>
+<b>Common Name: </b>Frisée / Curly Endive<br>
+<b>Scientific Name: </b> <i>Cichorium endivia var. crispa</i> <br><br>
+<b>Description:</b>  A leafy green with finely curled, bitter-tasting leaves. Commonly used in salads and garnishes, it adds texture and flavor and is rich in vitamins A and K, fiber, and antioxidants.
+  
+</td>
+
+
+<td align="center" width="33%">
+<img src="green leaf lettuce.jfif" width="200"><br><br>
+<b>Common Name: </b>Green Leaf Lettuce<br>
+<b>Scientific Name: </b> <i>Lactuca sativa var. crispa</i> <br><br>
+<b>Description:</b>  A leafy vegetable with loose, tender green leaves and a mild flavor. Commonly used in salads and sandwiches, it is rich in vitamins A, C, and K, and easy to cultivate as an agricultural crop.
+
+
+</td>
+</table>
+
+
+
+
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="Oak leaf lettuce.jfif" width="200"><br><br>
+<b>Common Name: </b>Oak Leaf Lettuce<br>
+<b>Scientific Name: </b> <i>Lactuca sativa var. crispa</i> <br><br>
+<b>Description:</b> A leafy green with soft, lobed leaves resembling oak leaves. It has a mild flavor, is commonly used in salads and sandwiches, and is rich in vitamins A, C, and K.
+
+</td>
+
+
+<td align="center" width="33%">
+<img src="Loose Leaf Lettuce.jpg" width="200"><br><br>
+<b>Common Name: </b>Loose Leaf Lettuce<br>
+<b>Scientific Name: </b> <i>Lactuca sativa var. crispa</i> <br><br>
+<b>Description:</b>  A leafy vegetable with loose, tender leaves that do not form a head. Commonly used in salads and sandwiches, it has a mild flavor and is rich in vitamins A, C, and K.
+
 
 </td>
 </table>
