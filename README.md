@@ -292,3 +292,41 @@ B. Plant Species Section
 </td>
 </table>
 
+
+## Model Training Details
+
+<table>
+<td align="center" width="50%">
+<img src="images/plants/images/Model Training Details/Dataset 1.png" width="400"><br><br>
+<b>Dataset 1</b><br>
+</td>
+
+<td align="center" width="50%">
+<img src="images/plants/images/Model Training Details/Dataset 2.png" width="400"><br><br>
+<b>Dataset 2</b><br>
+</td>
+</table>
+
+<table>
+<td align="center" width="50%">
+<img src="images/plants/images/Model Training Details/Dataset 3.png" width="400"><br><br>
+<b>Dataset 3</b><br>
+</td>
+
+<td align="center" width="50%">
+<img src="images/plants/images/Model Training Details/Dataset 4.png" width="400"><br><br>
+<b>Dataset 4</b><br>
+</td>
+</table>
+
+<table>
+<td align="center" width="50%">
+<img src="images/plants/images/Model Training Details/Dataset 5.png" width="400"><br><br>
+<b>Dataset 5</b><br>
+</td>
+
+<td align="center" width="50%">
+<img src="images/plants/images/Model Training Details/Training Settings.png" width="400"><br><br>
+<b>Training Settings</b><br>
+</td>
+</table>
