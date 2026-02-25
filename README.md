@@ -330,3 +330,30 @@ B. Plant Species Section
 <b>Training Settings</b><br>
 </td>
 </table>
+
+
+## Reflection Questions
+
+**1. How did the number of images per class affect your model’s accuracy?**
+
+The quantity of images in each class significantly influenced the model’s accuracy. When certain classes contained fewer images, the model struggled to properly learn their distinct features due to insufficient training data, which led to more misclassifications. On the other hand, classes with a larger and balanced number of images allowed the model to better understand patterns and variations among the  plants. This balanced distribution enhanced the model’s learning process, resulting in improved accuracy and overall performance.
+
+**2. Which plant species were most commonly misclassified and why?**
+
+The results showed that none of the plant species were commonly confused with one another. The model effectively distinguished between all categories, indicating strong learning performance. This suggests that the dataset provided clear visual distinctions and adequate image distribution per class, leading to reliable and accurate predictions.
+
+**3. How did changing the epochs, batch size, or learning rate affect the training results?**
+
+Changing the number of epochs, batch size, and learning rate affected how well the model trained. When the epochs were increased, the model learned more and accuracy improved. However, too many epochs caused overfitting, where the model worked well on training data but not on new data. Smaller batch sizes helped the model learn better but made training slower. Larger batch sizes made training faster, but sometimes the accuracy became lower.
+
+
+**4. What challenges did you encounter during dataset collection and labeling?**
+
+Collecting a large number of images for every plant took effort and patience. Keeping the pictures clear and consistent was challenging. Sometimes, similar-looking plants made it easy to accidentally label images incorrectly.
+
+**5. If you were to improve your model, what specific changes would you make and why?**
+
+To improve the model, I would increase the number of images for each plant species to provide the model with more data to learn from. Ensuring that each class has an equal number of images would help prevent bias and improve classification accuracy. I would also collect images under varying lighting conditions, angles, and backgrounds to enhance the model’s ability to generalize to real-world scenarios. Applying data augmentation techniques, such as rotation, flipping, and zooming, could further increase dataset diversity. Finally, fine-tuning training parameters, including the number of epochs and batch size, could optimize the model’s learning process and overall performance.
+
+
+
