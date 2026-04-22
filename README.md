@@ -1,4 +1,4 @@
-# Plant-Species-Image-Classification
+# 📁 Plant-Species-Image-Classification
 
 A. Project Overview
 
